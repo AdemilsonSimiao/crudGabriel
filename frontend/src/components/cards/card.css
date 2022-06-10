@@ -1,0 +1,17 @@
+.card--container{
+    width: 30rem;
+}
+table{
+    width: 100%;
+}
+tbody{
+    width: 100%;
+}
+tbody tr{
+    font-size: 1.2rem;
+    width: 100%;
+}
+tbody tr td{
+    padding: 10px 20px;
+    text-align: left;
+}

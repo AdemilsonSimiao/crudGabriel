@@ -1,0 +1,23 @@
+.thead{
+ padding-top: 30px;
+ width: 30rem;
+}
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+thead{
+    width: 100%;
+    
+}
+thead tr{
+    
+    font-size: 1.3rem;
+}
+thead tr th{
+    
+    border-width: solid 1px black;
+    width: 100%;
+    padding: 10px 20px;
+
+}
